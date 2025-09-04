@@ -1,0 +1,15 @@
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/bin/Debug/net9.0/csharp-assignment-hello-world
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/bin/Debug/net9.0/csharp-assignment-hello-world.deps.json
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/bin/Debug/net9.0/csharp-assignment-hello-world.runtimeconfig.json
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/bin/Debug/net9.0/csharp-assignment-hello-world.dll
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/bin/Debug/net9.0/csharp-assignment-hello-world.pdb
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.AssemblyInfoInputs.cache
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.AssemblyInfo.cs
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.csproj.CoreCompileInputs.cache
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.sourcelink.json
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.dll
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/refint/csharp-assignment-hello-world.dll
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.pdb
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/csharp-assignment-hello-world.genruntimeconfig.cache
+/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/Debug/net9.0/ref/csharp-assignment-hello-world.dll
